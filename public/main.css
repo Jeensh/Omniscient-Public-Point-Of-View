@@ -1,0 +1,24 @@
+#wrapper{
+    border: 1px solid #7e8377;
+    width: 1400px;
+    padding: 50px;
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    margin-left: -700px;
+}
+
+#진보{
+    border: 1px solid #2f00ff;
+    width: 600px;
+    float: left;
+    padding: 10px;
+}
+
+#보수{
+    border: 1px solid #ff0000;
+    width: 600px;
+    float: left;
+    padding: 10px;
+    margin-left: 95px;
+}
