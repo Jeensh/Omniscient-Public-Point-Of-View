@@ -1,8 +1,10 @@
 # Omniscient-Public-Point-Of-View
 ## 프로젝트 소개
-<img src ="http://khuhub.khu.ac.kr/2018110651/Omniscient-Public-Point-Of-View/uploads/a36b35915d6f8157d8328d0a785025e4/aaa.png" width = "73%">
-![ccc](/uploads/f93587280500de790ce368f7544d5b08/ccc.png)
+<img src ="https://user-images.githubusercontent.com/78855847/145418626-02b99678-febf-4ba8-bb1e-d4c549f284cf.png" width = "73%">
+<img src ="https://user-images.githubusercontent.com/78855847/145418621-772c8a8d-b533-48d2-94de-af24f60ee9c6.png" width = "73%">
+
 #### 진보 언론의 뉴스기사와 보수 언론의 뉴스기사를 동시에 비교하면서 볼 수 있는 웹 서비스입니다.<br><br>
+
 ## 프로젝트 계획이유
 최근 떠오르는 키워드로 **필터버블**이라는 단어가 있습니다.  
 **필터버블**은 인터넷 정보 제공자가 이용자에게 맞춤형 정보를 제공함에 따라  
@@ -41,24 +43,30 @@ width="550" height="600" marginwidth="0" frameborder="2" scrolling="yes">
 
 ## 웹페이지 기능 설명
 #### 검색 기능
-<img src ="http://khuhub.khu.ac.kr/2018110651/Omniscient-Public-Point-Of-View/uploads/f93587280500de790ce368f7544d5b08/ccc.png" width = "50%" height = "50%">
+<img src ="https://user-images.githubusercontent.com/78855847/145418621-772c8a8d-b533-48d2-94de-af24f60ee9c6.png" width = "50%" height = "50%">
+
 **키워드를 검색하게 되면**  
 **진보 영역에는 한겨레, 오마이뉴스와 같은 진보언론의 기사를**  
 **보수 영역에는 조선일보, 중앙일보와 같은 보수언론 기사의 검색결과를 출력합니다.**
 <br><br>
+
 #### 뉴스 비교 기능
-<img src ="http://khuhub.khu.ac.kr/2018110651/Omniscient-Public-Point-Of-View/uploads/b4af7730d6629949336494f4bfc05aa0/dd.png" width = "50%" height = "50%">
+<img src ="https://user-images.githubusercontent.com/78855847/145418613-920dcb10-b7e9-4727-98eb-d8240e150ba6.png" width = "50%" height = "50%">
+
 **웹페이지는 iframe기능을 통해 진보 영역과 보수 영역 각자 개별적인 웹페이지를 사용합니다.**  
 **그래서 사용자는 각각의 검색결과 중 원하는 뉴스의 원하는 부분을 바로 비교하며 볼 수 있습니다.**  
 **또한 진보나 보수영역을 클릭하고 뒤로가기 등의 브라우저 기능을 사용하면 각각 따로 웹페이지를 조종할 수 있습니다.**
 <br><br>
 
 ## 프로젝트 구성 
-![abc](/uploads/620b6ed3d053144fb4a076bada76f756/abc.png)
+<img src ="https://user-images.githubusercontent.com/78855847/145418622-82b3532b-1d2e-499b-aecf-a15a9459ace8.png" width = "80%" height = "80%">
 <br><br>
+
 ## 프로젝트 작성자 및 참고 자료
+
 ### 작성자
 - 컴퓨터공학과 2018110651 신동해
+- 오픈소스SW개발 수업 프로젝트
 
 ### 참고자료
 - YouTube : 코딩 애플
